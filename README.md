@@ -1,6 +1,6 @@
 ---
 
-### <div align="center">Rodrigo Guedes — Computer Engineering Student</div>  
+### <div align="center">Rodrigo Guedes</div>  
 
 ---
 

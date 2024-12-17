@@ -5,7 +5,7 @@
 ---
 
 - **Undergraduate** in **Computer Engineering** at **UFSC (Brazil)**
-- [Experience(https://github.com/ProjetoExtensaoPyAnalytics)] in Data Analysis 
+- [Experience](https://github.com/ProjetoExtensaoPyAnalytics) in Data Analysis 
 - Focused on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**  
 - Currently developing a project on **crystal characterization using CNNs and computer vision**, and writing a **scientific article** on this topic  
 - Exploring **Edge AI**, Federated Learning, and Embedded Systems  

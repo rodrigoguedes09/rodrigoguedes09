@@ -34,14 +34,6 @@
 
 ---
 
-## What I’m Learning
-
-- Advanced topics in **Computer Vision** and **Deep Learning**  
-- **Edge AI** deployment with low-power devices  
-- **CNN** for image and video analysis  
-
----
-
 ## Connect with Me
 
 <div align="center">

@@ -1,18 +1,18 @@
 ---
 
-### <div align="center">👋 Hi, I'm Rodrigo Guedes — Computer Engineering Student</div>  
+### <div align="center">Rodrigo Guedes — Computer Engineering Student</div>  
 
 ---
 
-- 🎓 **Undergraduate** in **Computer Engineering** at **UFSC (Brazil)**  
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**  
-- 🔬 Currently developing a project on **crystal characterization using CNNs and computer vision**, and writing a **scientific article** on this topic  
-- 💡 Exploring **Edge AI**, Federated Learning, and Embedded Systems  
-- 🌱 Always learning and improving my skills — currently diving deeper into **JavaScript** and **Kotlin**  
+- **Undergraduate** in **Computer Engineering** at **UFSC (Brazil)**  
+- Focused on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**  
+- Currently developing a project on **crystal characterization using CNNs and computer vision**, and writing a **scientific article** on this topic  
+- Exploring **Edge AI**, Federated Learning, and Embedded Systems  
+- Constantly learning and improving — currently studying **JavaScript** and **Kotlin**  
 
 ---
 
-## 🛠️ **Skills & Tools**  
+## Skills & Tools  
 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
@@ -27,22 +27,22 @@
 
 ---
 
-## 🧠 **Ongoing Projects**
+## Ongoing Projects
 
-- 📊 **Crystal Characterization using CNNs**: Developing and researching models to analyze and classify **crystals** through **computer vision**.  
-- ⚙️ **Edge AI Development**: Creating real-time solutions for embedded devices, such as **ESP32** and **Jetson Nano**, for AI applications.  
+- **Crystal Characterization using CNNs**: Developing and researching models to analyze and classify **crystals** through **computer vision**.  
+- **Edge AI Development**: Building real-time AI solutions for embedded devices, such as **ESP32** and **Jetson Nano**.  
 
 ---
 
-## 📚 **What I’m Learning**
+## What I’m Learning
 
 - Advanced topics in **Computer Vision** and **Deep Learning**  
 - **Edge AI** deployment with low-power devices  
-- **Kotlin** for mobile applications  
+- **CNN** for image and video analysis  
 
 ---
 
-## 🚀 **Connect with Me**
+## Connect with Me
 
 <div align="center">
 <a href="https://github.com/rodrigoguedes09" target="_blank">
@@ -55,9 +55,5 @@
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 </div>  
-
----
-
-✨ *I’m driven by the challenge of solving real-world problems using AI and emerging technologies. Let’s connect and build something impactful together!* ✨  
 
 ---

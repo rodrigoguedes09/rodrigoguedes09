@@ -6,7 +6,7 @@
 
 - **Undergraduate** in **Computer Engineering** at **UFSC (Brazil)**
 - Focused on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**  
-- Currently developing a project on **crystal characterization using CNNs and computer vision**, and writing a **scientific article** on this topic  
+- Currently developing a project on **crystal characterization using CNNs and computer vision** and **Classifying Skin Lesions Using CNNs**. Also, writing **scientific articles** on both topics  
 - Exploring **Edge AI**, Federated Learning, and Embedded Systems  
 
 ---
@@ -28,7 +28,8 @@
 
 ## Ongoing Projects
 
-- **Crystal Characterization using CNNs**: Developing and researching models to analyze and classify **crystals** through **computer vision**.  
+- **Crystal Characterization using CNNs**: Developing and researching models to analyze and classify **crystals** through **computer vision**.
+- **Classifying Skin Lesions Using CNNs**: Developing and researching models to analyze and classify **skin lesions**, helping on early detection of skin cancer using the International Skin Imaging Collaboration (ISIC) dataset.
 - **Edge AI Development**: Building real-time AI solutions for embedded devices, such as **ESP32** and **Jetson Nano**.  
 
 ---

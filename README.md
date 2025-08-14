@@ -4,10 +4,11 @@
 
 ---
 
-- **Undergraduate** in **Computer Engineering** at **UFSC (Brazil)**
+- Machine Learning Engineer with professional experiences
+- **Computer Engineering** at **UFSC (Brazil)**
 - Focused on **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**  
 - Currently developing a project on **crystal characterization using CNNs and computer vision** and **Classifying Skin Lesions Using CNNs**. Also, writing **scientific articles** on both topics  
-- Exploring **Edge AI**, Federated Learning, and Embedded Systems  
+- Exploring **Edge AI**, Federated Learning, and Embedded Systems
 
 ---
 

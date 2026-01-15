@@ -1,3 +1,56 @@
+AI Engineer with a Computer Engineering background.
+
+I work on production-grade AI systems, bridging applied research and real-world deployment.  
+Experience collaborating with international teams on end-to-end AI, ML and Data solutions.
+
+I like programming, experimenting with models, and building systems that actually run.
+
+---
+
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/>
+
+<!-- ML & AI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/keras.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+
+<!-- Data & MLOps -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubernetes.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gitlab.svg" height="40"/>
+
+<!-- Cloud & Systems -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40"/>
+
+<!-- Embedded & Edge -->
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/espressif.svg" height="40"/>
+
+<!-- Web & APIs -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40"/>
+
+</div>
+
+
+
+---
+
 <div align="center">
 
 憎しみってやつぁな

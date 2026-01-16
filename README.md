@@ -5,6 +5,15 @@ Experience collaborating with international teams on end-to-end AI, ML and Data 
 
 I like programming, experimenting with models, and building systems that actually run.
 
+<div align="center">
+  
+<a href="https://linkedin.com/in/rodrigo-guedes-" target="_blank">
+
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+<div>
+
 ---
 
 <div align="center">

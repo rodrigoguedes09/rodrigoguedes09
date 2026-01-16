@@ -3,7 +3,7 @@ AI Engineer with a Computer Engineering background.
 I work on production-grade AI systems, bridging applied research and real-world deployment.  
 Experience collaborating with international teams on end-to-end AI, ML and Data solutions.
 
-I like programming, experimenting with models, and building systems that actually run.
+I like programming, boxing and cats.
 
 
 <a href="https://linkedin.com/in/rodrigo-guedes-" target="_blank">
